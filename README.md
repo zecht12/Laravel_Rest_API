@@ -21,5 +21,5 @@ This is a Laravel-based RESTful API(without FrontEnd Full Backend Test) for a Ne
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/zecht12/Laravel_Rest_API
+   cd Laravel_Rest_API
